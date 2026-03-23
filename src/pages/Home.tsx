@@ -12,8 +12,8 @@ const Home = () => {
       <main className="max-w-5xl mx-auto">
         <Hero />
         
-        <div className="h-24 w-full flex items-center justify-center">
-          <div className="w-1 h-12 bg-gradient-to-b from-primary/50 to-transparent rounded-full animate-bounce"></div>
+        <div className="h-12 w-full flex items-center justify-center">
+          <div className="w-1 h-8 bg-gradient-to-b from-primary/50 to-transparent rounded-full animate-bounce"></div>
         </div>
         
         <AboutMe />
