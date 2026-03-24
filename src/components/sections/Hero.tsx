@@ -23,7 +23,7 @@ export const Hero = () => {
       </h1>
       
       <p className="text-lg md:text-xl text-muted-foreground font-medium max-w-md">
-        一个专注因果推理的算法探索者
+        一个不断学习、永远在前进路上的算法探索者
       </p>
       
       <div className="mt-6 flex gap-2">
